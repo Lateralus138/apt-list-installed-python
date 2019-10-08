@@ -45,7 +45,7 @@ while in a &#36;PATH directory
 
 [Current Executable](https://github.com/Lateralus138/apt-list-installed-python/releases/tag/1.10.7.19 "Release Page")
 
-[Current Python Script](src/apt-list-installed-python.py "Python Script")
+[Current Python Script](src/apt-list-installed.py "Python Script")
 
 [Bash Script](src/apt-list-installed.sh "Bash Script")
 
