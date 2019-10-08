@@ -1,4 +1,4 @@
-# apt-list-installed-python
+# apt-list-installed - python
 
 Retrieve a simple list of application packages installed with the apt package management system&#46;
 
