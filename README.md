@@ -9,6 +9,7 @@ apt-list-installed is a cli utility that lists apt package names&#46;
 - Can be used as a normal &#46;py script&#46;
 - You can strip the bash script and use it, with a bit of modification of course&#46;
 - Use as an executable&#46; One has been compiled; though, you can do so yourself with with nuitka&#46;
+- I provided a bash script. The executable might work better with other programs&#46;
 
 ## Usage: apt-list-installed [-h,--help]
 
@@ -20,13 +21,33 @@ apt-list-installed is a cli utility that lists apt package names&#46;
 
 - python3 apt-get-installed&#46;py [-h,--help]
 
+### If bash script
+
+```bash
+./apt-list-installed.sh
+```
+
+or
+
+```bash
+apt-list-installed
+```
+
+while in a &#36;PATH directory
+
+(&#46;sh extension can be removed)
+
 ### @params
 
 - -h, --help        This help message
 
 ## Current Release
 
-Coming soon&#46;
+[Current Executable](https://github.com/Lateralus138/apt-list-installed-python/releases/tag/1.10.7.19 "Release Page")
+
+[Current Python Script](src/apt-list-installed-python.py "Python Script")
+
+[Bash Script](src/apt-list-installed.sh "Bash Script")
 
 ## Motivation
 
