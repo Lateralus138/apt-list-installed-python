@@ -116,6 +116,6 @@ This license file: [LICENSE](LICENSE "GPLV3 License File")
     MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
     GNU General Public License for more details.
 
-    License provided in gpl.txt
+    License provided in LICENSE file
 
 ```
