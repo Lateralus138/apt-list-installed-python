@@ -41,6 +41,25 @@ while in a &#36;PATH directory
 
 - -h, --help        This help message
 
+## Compile with nuitka
+
+### Install nuitka if necessary
+
+```bash
+sudo apt-get update && sudo apt-get install nuitka -y
+```
+
+### Compile
+
+Replace 3.6 with current 3+ version&#46;
+
+```bash
+cd /<path-to-py-file>/
+nuitka --recurse-all --python-version=3.6 apt-list-installed.py
+mv apt-list-installed.exe apt-list-installed
+chmod +x apt-list-installed
+```
+
 ## Current Release
 
 [Current Executable](https://github.com/Lateralus138/apt-list-installed-python/releases/tag/1.10.7.19 "Release Page")
