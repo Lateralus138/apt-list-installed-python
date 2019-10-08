@@ -51,7 +51,7 @@ sudo apt-get update && sudo apt-get install nuitka -y
 
 ### Compile
 
-Replace 3.6 with current 3+ version&#46;
+Replace 3&#46;6 with current 3+ version&#46;
 
 ```bash
 cd /<path-to-py-file>/
