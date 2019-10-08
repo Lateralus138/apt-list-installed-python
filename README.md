@@ -97,6 +97,10 @@ flux @ ❨ /home/flux/.git/apt-list-installed-python ❩ > uname -a | awk '{prin
 
 Ian Pride @ faithnomoread@yahoo.com - [Lateralus138][FluxApex] @ New Pride Services
 
+## Screenshot
+
+![apt-list-installed screen](Screenshots/apt-list-install_screena.png "apt-list-installed screenshot")
+
 ## License
 
 This license file: [LICENSE](LICENSE "GPLV3 License File")
